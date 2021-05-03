@@ -19,7 +19,7 @@ Setup virtual environment by:
 env\ Scripts\ activate
 
 Clone this repository using:
-https://github.com/Bhavna25/Provakil-assignment
+https://github.com/Bhavna25/Provakil_Budget_assignment
 
 Install project requirements using:
 - pip install -r requirements.txt
